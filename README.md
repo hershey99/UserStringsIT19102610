@@ -1,1 +1,1 @@
-# UserStringsIT19102610
+# UserStrings assignment IT19102610
